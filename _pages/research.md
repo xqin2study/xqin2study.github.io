@@ -21,7 +21,7 @@ author_profile: true
 
 ## **EXPERIENCE**
 
-### **1.Project: Finite-Time Blowups of the Generalized Constantin–Lax–Majda Model** 
+### **1. Project: Finite-Time Blowups of the Generalized Constantin–Lax–Majda Model** 
 
 Jun. 2022 - Mar. 2023
 
@@ -29,7 +29,7 @@ Jun. 2022 - Mar. 2023
 
 **Collaborator**: Xiuyuan Wang
 
-### **2.Project: Finite-Time Blowups of the Hou-Luo Model** 
+### **2. Project: Finite-Time Blowups of the Hou-Luo Model** 
 
 Apr. 2023 - Jun. 2023
 
@@ -37,7 +37,7 @@ Apr. 2023 - Jun. 2023
 
 **Collaborator**: Xiuyuan Wang
 
-###  **3.SURF Program: Investigate Potential Singularities of Euler Equations via Iterative Method**
+###  **3. SURF Program: Investigate Potential Singularities of Euler Equations via Iterative Method**
 
  Jun. 2023 - Aug. 2023
 
