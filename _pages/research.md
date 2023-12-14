@@ -65,6 +65,6 @@ De Huang, Xiang Qin, Xiuyuan Wang, and Dongyi Wei, arXiv:[2308.01528 [math.AP]](
 
 ## ONGOING WORK
 
-- **Blowup analysis for the weak convection Hou-Li model.** [[paper](https://xqin2study.github.io/research/hou_li_weakconv)]
+- **Blowup analysis for the weak convection Hou-Li model** [[paper](https://xqin2study.github.io/research/hou_li_weakconv)]
 
-- **Blowup analysis for a 1D model of the Euler equations with no swirl and Holder continuous initial data.** [[paper](https://xqin2study.github.io/research/1DcalphaModel)]
+- **Blowup analysis for a 1D model of the Euler equations with no swirl and Holder continuous initial data** [[paper](https://xqin2study.github.io/research/1DcalphaModel)]
