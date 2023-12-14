@@ -18,7 +18,7 @@ Email: xqin2@stu.pku.edu.cn
 ***
 
 
-## RESEARCH INTEREST
+## RESEARCH INTERESTS
 
 My research interests include:
 
