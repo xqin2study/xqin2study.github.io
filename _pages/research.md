@@ -16,7 +16,7 @@ author_profile: true
 - Rigorous proofs for self-similar blowups of the reduced models of the Euler and Navier--Stokes equations.
 
 
-### ***
+<hr style=" border: 1px solid black" >
 
 
 ## **RESEARCH EXPERIENCE**
@@ -46,7 +46,7 @@ Apr. 2023 - Jun. 2023
 **Collaborator**: Xiuyuan Wang
 
 
-### ***
+<hr style=" border: 1px solid black" >
 
 
 ## **PUBLICATIONS**
@@ -60,7 +60,7 @@ De Huang, Xiang Qin, Xiuyuan Wang, and Dongyi Wei, arXiv:[2305.05895 [math.AP]](
 De Huang, Xiang Qin, Xiuyuan Wang, and Dongyi Wei, arXiv:[2308.01528 [math.AP]](https://arxiv.org/abs/2308.01528), 2023
 
 
-### ***
+<hr style=" border: 1px solid black" >
 
 
 ## ONGOING WORK
