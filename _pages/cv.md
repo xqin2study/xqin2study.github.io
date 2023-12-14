@@ -15,7 +15,7 @@ redirect_from:
 - 09/2020 - Expected 07/2024       **B.Sc.**        **Economics (double major)**       Peking University
 
 
-***
+<hr style=" border: 1px solid black" >
 
 
 ## SKILLS
