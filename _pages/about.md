@@ -20,3 +20,5 @@ My research interests include:
 
 - Partial Differential Equation
 - Numerical Analysis
+
+Actively looking for discussions and possible collaborations on interesting topics.
