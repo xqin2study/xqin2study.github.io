@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xiang Qin / Homepage"
 title_separator          : "-"
-name                     : &name "Xiang QIn"
+name                     : &name "Xiang Qin"
 description              : &description "personal description"
 url                      : https://xqin2study.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
