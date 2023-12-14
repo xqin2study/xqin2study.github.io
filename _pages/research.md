@@ -16,7 +16,7 @@ author_profile: true
 - Rigorous proofs for self-similar blowups of the reduced models of the Euler and Navier--Stokes equations.
 
 
-<hr style=" border: 3px solid black" >
+<hr style=" border: 1px solid black" >
 
 
 ## **RESEARCH EXPERIENCE**
