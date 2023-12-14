@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## RESEARCH INTERESTS
+## **RESEARCH INTERESTS**
 
 **Blowups of Fluid Dynamics Models**
 
@@ -15,6 +15,8 @@ author_profile: true
 
 - Rigorous proofs for self-similar blowups of the reduced models of the Euler and Navier--Stokes equations.
 
+
+***
 
 
 ## **RESEARCH EXPERIENCE**
@@ -44,6 +46,8 @@ Apr. 2023 - Jun. 2023
 **Collaborator**: Xiuyuan Wang
 
 
+***
+
 
 ## **PUBLICATIONS**
 
@@ -55,6 +59,8 @@ De Huang, Xiang Qin, Xiuyuan Wang, and Dongyi Wei, arXiv:[2305.05895 [math.AP]](
 
 De Huang, Xiang Qin, Xiuyuan Wang, and Dongyi Wei, arXiv:[2308.01528 [math.AP]](https://arxiv.org/abs/2308.01528), 2023
 
+
+***
 
 
 ## ONGOING WORK
