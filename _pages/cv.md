@@ -11,8 +11,8 @@ redirect_from:
 
 ## Education
 
-- 09/2020 -        **Undergraduate**         **Mathematics**        Peking University
-- 09/2020 -        **Undergraduate**         **Economics (double major)**       Peking University
+- 09/2020 - Expected 07/2024       **B.Sc.**        **Mathematics**        Peking University
+- 09/2020 - Expected 07/2024       **B.Sc.**        **Economics (double major)**       Peking University
 
 
 
