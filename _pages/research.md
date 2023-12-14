@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Research Interests
+## RESEARCH INTERESTS
 
 **Blowups of Fluid Dynamics Models**
 
