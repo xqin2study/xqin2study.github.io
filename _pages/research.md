@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## **RESEARCH INTERESTS**
+## **INTERESTS**
 
 **Blowups of Fluid Dynamics Models**
 
@@ -19,7 +19,7 @@ author_profile: true
 <hr style=" border: 1px solid black" >
 
 
-## **RESEARCH EXPERIENCE**
+## **EXPERIENCE**
 
 ### **Project: Finite-Time Blowups of the Generalized Constantin–Lax–Majda Model** 
 
