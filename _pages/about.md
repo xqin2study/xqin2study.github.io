@@ -15,7 +15,7 @@ I'm currently a senior undergraduate student at the [School of Mathematical Scie
 Email: xqin2@stu.pku.edu.cn
 
 
-***
+<hr style=" border: 1px solid black" >
 
 
 ## RESEARCH INTERESTS
