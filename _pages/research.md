@@ -16,7 +16,7 @@ author_profile: true
 - Rigorous proofs for self-similar blowups of the reduced models of the Euler and Navier--Stokes equations.
 
 
-***
+### ***
 
 
 ## **RESEARCH EXPERIENCE**
@@ -46,21 +46,21 @@ Apr. 2023 - Jun. 2023
 **Collaborator**: Xiuyuan Wang
 
 
-***
+### ***
 
 
 ## **PUBLICATIONS**
 
-### **Self-similar finite-time blowups with smooth profiles of the generalized Constantin-Lax-Majda model. **
+### Self-similar finite-time blowups with smooth profiles of the generalized Constantin-Lax-Majda model. 
 
 De Huang, Xiang Qin, Xiuyuan Wang, and Dongyi Wei, arXiv:[2305.05895 [math.AP]](https://arxiv.org/abs/2305.05895), 2023
 
-### **On the exact self-similar finite-time blowup of the Hou-Luo model with smooth profiles. **
+### On the exact self-similar finite-time blowup of the Hou-Luo model with smooth profiles. 
 
 De Huang, Xiang Qin, Xiuyuan Wang, and Dongyi Wei, arXiv:[2308.01528 [math.AP]](https://arxiv.org/abs/2308.01528), 2023
 
 
-***
+### ***
 
 
 ## ONGOING WORK
