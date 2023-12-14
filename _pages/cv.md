@@ -11,8 +11,8 @@ redirect_from:
 
 ## EDUCATION
 
-- 09/2020 - Expected 07/2024  $~~~$       **B.Sc.**        **Mathematics**     $~~~$  Peking University
-- 09/2020 - Expected 07/2024   $~~~$   **B.Sc.**        **Economics (double major)**   $~~~$    Peking University
+- 09/2020 - Expected 07/2024  &ensp;       **B.Sc.**        **Mathematics**      &ensp;  Peking University
+- 09/2020 - Expected 07/2024    &ensp;   **B.Sc.**        **Economics (double major)**    &ensp;  Peking University
 
 
 <hr style=" border: 1px solid black" >
