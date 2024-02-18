@@ -53,12 +53,21 @@ Apr. 2023 - Jun. 2023
 
 ### Self-similar finite-time blowups with smooth profiles of the generalized Constantin-Lax-Majda model 
 
-De Huang, Xiang Qin, Xiuyuan Wang, and Dongyi Wei, arXiv:[2305.05895 [math.AP]](https://arxiv.org/abs/2305.05895), 2023
+De Huang, Xiang Qin, Xiuyuan Wang, and Dongyi Wei.
+
+Submitted to Archive for Rational Mechanics and Analysis, arXiv:[2305.05895 [math.AP]](https://arxiv.org/abs/2305.05895), 2023
 
 ### On the exact self-similar finite-time blowup of the Hou-Luo model with smooth profiles
 
-De Huang, Xiang Qin, Xiuyuan Wang, and Dongyi Wei, arXiv:[2308.01528 [math.AP]](https://arxiv.org/abs/2308.01528), 2023
+De Huang, Xiang Qin, Xiuyuan Wang, and Dongyi Wei.
 
+Submitted to Journal of Differential Equations, arXiv:[2308.01528 [math.AP]](https://arxiv.org/abs/2308.01528), 2023
+
+### Multi-scale self-similar finite-time blowups of the Constantin-Lax-Majda model for the 3D Euler equations
+
+De Huang, Xiang Qin, Xiuyuan Wang.
+
+Submitted to Nonlinearity, arXiv:[2401.14615 [math.AP]](https://arxiv.org/abs/2401.14615), 2024
 
 <hr style=" border: 1px solid black" >
 
