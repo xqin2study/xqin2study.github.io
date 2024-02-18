@@ -74,6 +74,6 @@ Submitted to Nonlinearity, arXiv:[2401.14615 [math.AP]](https://arxiv.org/abs/24
 
 ## ONGOING WORK
 
-- **Blowup analysis for the weak convection Hou-Li model** [[paper](https://xqin2study.github.io/research/hou_li_weakconv)]
+- **Blowup analysis for the weak convection Hou-Li model** [[note](https://xqin2study.github.io/research/hou_li_weakconv)]
 
-- **Blowup analysis for a 1D model of the Euler equations with no swirl and Holder continuous initial data** [[paper](https://xqin2study.github.io/research/1DcalphaModel)]
+- **Blowup analysis for a 1D model of the Euler equations with no swirl and Holder continuous initial data** [[note](https://xqin2study.github.io/research/1DcalphaModel)]
